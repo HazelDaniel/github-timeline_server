@@ -44,4 +44,5 @@ app.get("/get_token", async function (req, res) {
 
 app.listen(PORT, () => {
   console.log("cors server running on port ", PORT);
+	console.log("serving ...");
 });
