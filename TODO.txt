@@ -1,0 +1,2 @@
+in the sign in functionality, check if the credentials is set to remember
+and persist the token in the localStorage
